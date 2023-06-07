@@ -1,6 +1,6 @@
-# lista-exercicio-5
+# lista-exercicio-6
 
-lista de exercício cincode java 
+lista de exercício seis de java 
 
 Meu perfil no [linkedin](https://www.linkedin.com/in/lucas-alves-259320274/)
 
